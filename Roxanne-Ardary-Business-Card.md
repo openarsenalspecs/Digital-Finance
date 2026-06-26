@@ -1,0 +1,13 @@
+<img src="https://roxanneardary.com/wp-content/uploads/2026/06/OpenArsenallogo.jpg" width="300" align="left" style="margin-right:30px;" />
+
+####  Open Arsenal by Roxanne Ardary  
+[roxanneardary.com](https://roxanneardary.com/)  
+Email: openarsenalspecs@gmail.com  
+
+**Find me on:**   
+X.com: [https://x.com/RoxanneA](https://x.com/RoxanneA)   
+Facebook: [https://www.facebook.com/roxanne.ardary](https://www.facebook.com/roxanne.ardary)  
+LinkedIn: [https://www.linkedin.com/in/roxanne-ardary-8621233/](https://www.linkedin.com/in/roxanne-ardary-8621233/)  
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
