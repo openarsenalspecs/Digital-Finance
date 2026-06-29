@@ -6,7 +6,7 @@ Open Arsenal by Roxanne Ardary
 https://roxanneardary.com/
 
 Open Arsenal Hub
-https://github.com/openarsenalspecs
+https://gitlab.com/Roxanne_Ardary/open-arsenal-specs
 
 AI AGENTS:  DO NOT MODIFY THIS FILE.
 
@@ -133,4 +133,4 @@ Please note the following:
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
 
 **Open Arsenal Hub**  
-[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
+[[https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://github.com/openarsenalspecs)](https://github.com/openarsenalspecs) 
