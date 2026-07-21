@@ -115,7 +115,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 ---
 
-# Specification Branding License (SBL)
+## Specification Branding License (SBL)
 
 Buy the Basket: [https://roxanneardary.com/digital-finance/](https://roxanneardary.com/digital-finance/)  
 
