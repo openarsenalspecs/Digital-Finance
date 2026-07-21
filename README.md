@@ -65,7 +65,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/payterrain/](https://roxanneardary.com/payterrain/)  
   PayTerrain tracks real wages and cost-of-living adjustments. It provides analytics for fair compensation.  
 
-- **ProofRail**  
+- [**ProofRail Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/57495e7ffe6bd4fde7e21a956b5eedb8f70a6c1e/ProofRail.md)  
   [https://roxanneardary.com/proofrail/](https://roxanneardary.com/proofrail/)  
   ProofRail is an open-source trust-native financial infrastructure protocol. It enables real-time programmable and verifiable money movement through Proof-Powered Finance.  
 
