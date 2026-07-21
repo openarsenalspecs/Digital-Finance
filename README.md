@@ -113,9 +113,15 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/wealth-continuum/](https://roxanneardary.com/wealth-continuum/)  
   Wealth Continuum is an AI-powered research platform for long-term capital stewards. It focuses on transparency, ownership quality, governance, and generational wealth analysis.
 
-  ---
+---
 
-  ## License & Notice Requirements
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/digital-finance/](https://roxanneardary.com/digital-finance/)  
+
+---
+
+## License & Notice Requirements
 
 Open Arsenal Digital Finance Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.  By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
 
