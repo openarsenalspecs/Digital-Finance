@@ -29,7 +29,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/balanceseal/](https://roxanneardary.com/balanceseal/)  
   BalanceSeal is a cryptographic audit and termination snapshot system for cryptocurrency exchanges and wallets. It generates verifiable final-state balance reports with time-frozen valuation and tamper-evident integrity.  
 
-- **CryptoCradle**  
+- [**CryptoCradle Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/b0c8e982f4d3403a4e49cf8d57b7b9a54ef55a5a/CryptoCradle.md)    
   [https://roxanneardary.com/cryptocradle/](https://roxanneardary.com/cryptocradle/)  
   CryptoCradle serves as a global startup accelerator for fractional investments. It supports multi-currency funding and blockchain equity tracking.  
 
