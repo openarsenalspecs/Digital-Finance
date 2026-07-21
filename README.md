@@ -41,7 +41,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
   Orvian is an AI-driven personal financial operating system. It organizes money into intelligent envelopes for budgeting, goals, and tax automation over existing bank accounts.  
 
-- **ExitCompute**  
+- [**ExitCompute Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/573f210007ba50e26a164994a1ef520a455a7e02/ExitCompute.md)    
   [https://roxanneardary.com/exitcompute/](https://roxanneardary.com/exitcompute/)  
   ExitCompute is an AI platform for financial decision-making. It combines macroeconomic signals and portfolio risk models.  
 
