@@ -53,7 +53,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/internal-credit/](https://roxanneardary.com/internal-credit/)  
   Internal Credit is an AI-powered modular financial platform. It enables users to borrow against their own savings while continuing to earn returns on deposited capital.  
 
-- **LatticePay**  
+- [**LatticePay Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/de55a4e51ee67dd50028b592789dde117794467e/LatticePay.md)    
   [https://roxanneardary.com/latticepay/](https://roxanneardary.com/latticepay/)  
   LatticePay is an open-source encrypted local-first payment infrastructure. It enables private merchant-owned commerce without surveillance or centralized control.  
 
