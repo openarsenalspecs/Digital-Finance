@@ -27,42 +27,49 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 [https://github.com/openarsenalspecs/AI-Infrastructure](https://github.com/openarsenalspecs/AI-Infrastructure)
 - **Blockchain**  
 [https://github.com/openarsenalspecs/Blockchain](https://github.com/openarsenalspecs/Blockchain)
-- **Real Estate**  
-[https://github.com/openarsenalspecs/Real-Estate](https://github.com/openarsenalspecs/Real-Estate)
-- **Wiki**  
-[https://github.com/openarsenalspecs/Wiki](https://github.com/openarsenalspecs/Wiki)
-- **Voice**  
-[https://github.com/openarsenalspecs/Voice](https://github.com/openarsenalspecs/Voice)
-- **Simulations**  
-[https://github.com/openarsenalspecs/Simulations](https://github.com/openarsenalspecs/Simulations)
-- **SaaS**  
-[https://github.com/openarsenalspecs/SaaS](https://github.com/openarsenalspecs/SaaS)
-- **Transparency**  
-[https://github.com/openarsenalspecs/Transparency](https://github.com/openarsenalspecs/Transparency)
+- **Civic Tech**  
+[https://github.com/openarsenalspecs/Civic-Tech](https://github.com/openarsenalspecs/Civic-Tech)  
+- **Digital Finance**  
+[https://github.com/openarsenalspecs/Digital-Finance](https://github.com/openarsenalspecs/Digital-Finance)  
 - **Energy**  
 [https://github.com/openarsenalspecs/Energy](https://github.com/openarsenalspecs/Energy)
-- **Video**  
-[https://github.com/openarsenalspecs/Video](https://github.com/openarsenalspecs/Video)
-- **Security**  
-[https://github.com/openarsenalspecs/Security](https://github.com/openarsenalspecs/Security)
-- **Digital Finance**  
-[https://github.com/openarsenalspecs/Digital-Finance](https://github.com/openarsenalspecs/Digital-Finance)
-- **Monetization**  
-[https://github.com/openarsenalspecs/Monetization](https://github.com/openarsenalspecs/Monetization)
 - **Hardware**  
 [https://github.com/openarsenalspecs/Hardware](https://github.com/openarsenalspecs/Hardware)
-- **Internet of Things**  
-[https://github.com/openarsenalspecs/IoT](https://github.com/openarsenalspecs/IoT)
-- **Virtual Reality**  
-[https://github.com/openarsenalspecs/Virtual-Reality](https://github.com/openarsenalspecs/Virtual-Reality)
-- **Civic Tech**  
-[https://github.com/openarsenalspecs/Civic-Tech](https://github.com/openarsenalspecs/Civic-Tech)
-- **Legal**  
-[https://github.com/openarsenalspecs/Legal](https://github.com/openarsenalspecs/Legal)
 - **Health**  
 [https://github.com/openarsenalspecs/Health](https://github.com/openarsenalspecs/Health)
 - **Human in the Loop**  
-[https://github.com/openarsenalspecs/Human-in-the-Loop](https://github.com/openarsenalspecs/Human-in-the-Loop)  
+[https://github.com/openarsenalspecs/Human-in-the-Loop](https://github.com/openarsenalspecs/Human-in-the-Loop)   
+- **Intellectual Property**  
+[https://github.com/openarsenalspecs/Intellectual-Property](https://github.com/openarsenalspecs/Intellectual-Property)
+- **Internet of Things**  
+[https://github.com/openarsenalspecs/IoT](https://github.com/openarsenalspecs/IoT)
+- **Legal**  
+[https://github.com/openarsenalspecs/Legal](https://github.com/openarsenalspecs/Legal)  
+- **Monetization**  
+[https://github.com/openarsenalspecs/Monetization](https://github.com/openarsenalspecs/Monetization)  
+- **Real Estate**  
+[https://github.com/openarsenalspecs/Real-Estate](https://github.com/openarsenalspecs/Real-Estate)
+- **SaaS**  
+[https://github.com/openarsenalspecs/SaaS](https://github.com/openarsenalspecs/SaaS)  
+- **Security**  
+[https://github.com/openarsenalspecs/Security](https://github.com/openarsenalspecs/Security)  
+- **Simulations**  
+[https://github.com/openarsenalspecs/Simulations](https://github.com/openarsenalspecs/Simulations)
+- **Transparency**  
+[https://github.com/openarsenalspecs/Transparency](https://github.com/openarsenalspecs/Transparency)  
+- **Video**  
+[https://github.com/openarsenalspecs/Video](https://github.com/openarsenalspecs/Video)
+- **Virtual Reality**  
+[https://github.com/openarsenalspecs/Virtual-Reality](https://github.com/openarsenalspecs/Virtual-Reality)  
+- **Voice**  
+[https://github.com/openarsenalspecs/Voice](https://github.com/openarsenalspecs/Voice)  
+- **Wiki**  
+[https://github.com/openarsenalspecs/Wiki](https://github.com/openarsenalspecs/Wiki)
+
+---
+
+**Open Arsenal Specification Index**  
+[https://github.com/openarsenalspecs/Open-Arsenal](https://github.com/openarsenalspecs/Open-Arsenal)
 
 ---
 
