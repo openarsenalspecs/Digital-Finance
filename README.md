@@ -77,7 +77,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/openleverage-lab/](https://roxanneardary.com/openleverage-lab/)  
   OpenLeverage Lab is an open-source financial simulation engine. It forecasts leverage outcomes, margin risk, and portfolio behavior under real-world market uncertainty.  
 
-- **QuantumSettle**  
+- [**QuantumSettle Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/48095726b11e925a14b86f33b9d73cc4a0f89b94/QuantumSettle.md)    
   [https://roxanneardary.com/quantumsettle/](https://roxanneardary.com/quantumsettle/)  
   QuantumSettle is an AI-driven financial operating system. It provides stable denomination-guaranteed settlement and intelligent liquidity management across volatile global markets.  
 
