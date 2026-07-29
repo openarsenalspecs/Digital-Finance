@@ -57,7 +57,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/latticepay/](https://roxanneardary.com/latticepay/)  
   LatticePay is an open-source encrypted local-first payment infrastructure. It enables private merchant-owned commerce without surveillance or centralized control.  
 
-- **Nexa: Continuity Engine**  
+- [**Nexa: Continuity Engine Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/34f94f6fd01481cb2ce19732245fb73499f05a0f/Nexa.md)    
   [https://roxanneardary.com/nexa/](https://roxanneardary.com/nexa/)  
   Nexa is a generational wealth operating system. It structures, simulates, and governs long-term financial systems through programmable trust logic and multi-generational continuity modeling.  
 
