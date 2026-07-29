@@ -37,10 +37,6 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/crystal-ledger/](https://roxanneardary.com/crystal-ledger/)  
   Crystal Ledger is an open-source custodial financial infrastructure system. It provides verifiable transparency, Bitcoin-first treasury management, and immutable cryptographically auditable accounting.  
 
-- **Orvian**  
-  [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
-  Orvian is an AI-driven personal financial operating system. It organizes money into intelligent envelopes for budgeting, goals, and tax automation over existing bank accounts.  
-
 - [**ExitCompute Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/573f210007ba50e26a164994a1ef520a455a7e02/ExitCompute.md)    
   [https://roxanneardary.com/exitcompute/](https://roxanneardary.com/exitcompute/)  
   ExitCompute is an AI platform for financial decision-making. It combines macroeconomic signals and portfolio risk models.  
@@ -63,7 +59,11 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 - **OpenLeverage Lab**  
   [https://roxanneardary.com/openleverage-lab/](https://roxanneardary.com/openleverage-lab/)  
-  OpenLeverage Lab is an open-source financial simulation engine. It forecasts leverage outcomes, margin risk, and portfolio behavior under real-world market uncertainty. 
+  OpenLeverage Lab is an open-source financial simulation engine. It forecasts leverage outcomes, margin risk, and portfolio behavior under real-world market uncertainty.
+
+- **Orvian**  
+  [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
+  Orvian is an AI-driven personal financial operating system. It organizes money into intelligent envelopes for budgeting, goals, and tax automation over existing bank accounts.  
 
 - **PayTerrain**  
   [https://roxanneardary.com/payterrain/](https://roxanneardary.com/payterrain/)  
