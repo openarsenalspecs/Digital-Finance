@@ -61,6 +61,10 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/nexa/](https://roxanneardary.com/nexa/)  
   Nexa is a generational wealth operating system. It structures, simulates, and governs long-term financial systems through programmable trust logic and multi-generational continuity modeling.  
 
+- **OpenLeverage Lab**  
+  [https://roxanneardary.com/openleverage-lab/](https://roxanneardary.com/openleverage-lab/)  
+  OpenLeverage Lab is an open-source financial simulation engine. It forecasts leverage outcomes, margin risk, and portfolio behavior under real-world market uncertainty. 
+
 - **PayTerrain**  
   [https://roxanneardary.com/payterrain/](https://roxanneardary.com/payterrain/)  
   PayTerrain tracks real wages and cost-of-living adjustments. It provides analytics for fair compensation.  
@@ -71,11 +75,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 - **PublicLaunch**  
   [https://roxanneardary.com/publiclaunch/](https://roxanneardary.com/publiclaunch/)  
-  PublicLaunch is an open-source AI-powered market intelligence platform. It quantifies market behavior through historical analysis, manipulation-risk assessment, IPO research, and probabilistic outcome modeling.  
-
-- **OpenLeverage Lab**  
-  [https://roxanneardary.com/openleverage-lab/](https://roxanneardary.com/openleverage-lab/)  
-  OpenLeverage Lab is an open-source financial simulation engine. It forecasts leverage outcomes, margin risk, and portfolio behavior under real-world market uncertainty.  
+  PublicLaunch is an open-source AI-powered market intelligence platform. It quantifies market behavior through historical analysis, manipulation-risk assessment, IPO research, and probabilistic outcome modeling.   
 
 - [**QuantumSettle Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/48095726b11e925a14b86f33b9d73cc4a0f89b94/QuantumSettle.md)    
   [https://roxanneardary.com/quantumsettle/](https://roxanneardary.com/quantumsettle/)  
