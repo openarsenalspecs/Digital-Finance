@@ -61,7 +61,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/openleverage-lab/](https://roxanneardary.com/openleverage-lab/)  
   OpenLeverage Lab is an open-source financial simulation engine. It forecasts leverage outcomes, margin risk, and portfolio behavior under real-world market uncertainty.
 
-- **Orvian**  
+- [**Orvian Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/71ff1b8c81344d6f5f5edf4d0954749eb895624d/Orvian.md)    
   [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
   Orvian is an AI-driven personal financial operating system. It organizes money into intelligent envelopes for budgeting, goals, and tax automation over existing bank accounts.  
 
