@@ -93,7 +93,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/taxlensus/](https://roxanneardary.com/taxlensus/)  
   TaxLensUS is an open-source AI system for U.S. tax analysis. It examines corporate tax filings and economic data to estimate policy impacts on small businesses.  
 
-- **The Open Work System**  
+- [**The Open Work System Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/e0ed762701c61f28a1704bc07dc61baef0b3a92d/The%20Open%20Work%20System.md)    
   [https://roxanneardary.com/the-open-work-system/](https://roxanneardary.com/the-open-work-system/)  
   The Open Work System is an AI-driven coordination and incentive protocol for open-source development. It measures contributions, prevents duplication, and distributes funding based on verified impact.  
 
