@@ -101,7 +101,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/trustcard/](https://roxanneardary.com/trustcard/)  
   TrustCard is an open-source privacy-first digital wallet and universal payment platform. It uses end-to-end encryption, secure authentication, and transparent financial infrastructure.  
 
-- **TrustTip**  
+- [**TrustTip Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/6bd4e23f3b2295a286269585607d8492005de534/TrustTip.md)    
   [https://roxanneardary.com/trusttip/](https://roxanneardary.com/trusttip/)  
   TrustTip is a cross-platform audit-grade tipping and attribution system. It links every digital tip to its exact source content, reason, and structured financial record.  
 
