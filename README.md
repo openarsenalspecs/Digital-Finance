@@ -85,7 +85,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/sharedrail/](https://roxanneardary.com/sharedrail/)  
   SharedRail is an open-source federated payment infrastructure. It enables secure identity-based multi-currency transactions with modular compliance and instant global settlement.  
 
-- **Soluna Finance OS**  
+- [**Soluna Finance OS Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/5356ccd5cfa70f4af21a3dd06fe381d70ef2e67f/Soluna%20Finance%20OS.md)    
   [https://roxanneardary.com/soluna-finance-os/](https://roxanneardary.com/soluna-finance-os/)  
   Soluna Finance OS is a financial operating system for institutions. It unifies insured liquidity through account abstraction, AI-driven allocation, and continuous identity-based orchestration.
 
