@@ -87,7 +87,11 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 - **Soluna Finance OS**  
   [https://roxanneardary.com/soluna-finance-os/](https://roxanneardary.com/soluna-finance-os/)  
-  Soluna Finance OS is a financial operating system for institutions. It unifies insured liquidity through account abstraction, AI-driven allocation, and continuous identity-based orchestration.  
+  Soluna Finance OS is a financial operating system for institutions. It unifies insured liquidity through account abstraction, AI-driven allocation, and continuous identity-based orchestration.
+
+- [**Solvra Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/4bf94936ef78815f932f19c6d9e22efa689b8a1e/Solvra.md)  
+[https://roxanneardary.com/solvra/](https://roxanneardary.com/solvra/)  
+Solvra is an open-source controlled amortization engine that provides transparent loan modeling through capped interest calculations and evenly distributed payments across the full loan term. It enables deterministic mortgage scenarios, affordability analysis, and financial simulations through a modular architecture designed for extensibility and transparency.  
 
 - **TaxLensUS**  
   [https://roxanneardary.com/taxlensus/](https://roxanneardary.com/taxlensus/)  
