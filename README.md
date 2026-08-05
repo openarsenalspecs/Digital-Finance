@@ -45,7 +45,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/fiscaltruth/](https://roxanneardary.com/fiscaltruth/)  
   FiscalTruth is an open-source civic watchdog and whistleblower platform. It tracks public spending, detects financial anomalies, and empowers citizens with transparency into tax dollar allocation.  
 
-- **Internal Credit**  
+- [**Internal Credit Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/ba27717f6f62602952efa2711629bd77a2e7bb36/Internal%20Credit.md)    
   [https://roxanneardary.com/internal-credit/](https://roxanneardary.com/internal-credit/)  
   Internal Credit is an AI-powered modular financial platform. It enables users to borrow against their own savings while continuing to earn returns on deposited capital.  
 
