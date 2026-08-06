@@ -51,7 +51,11 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 - [**LatticePay Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/de55a4e51ee67dd50028b592789dde117794467e/LatticePay.md)    
   [https://roxanneardary.com/latticepay/](https://roxanneardary.com/latticepay/)  
-  LatticePay is an open-source encrypted local-first payment infrastructure. It enables private merchant-owned commerce without surveillance or centralized control.  
+  LatticePay is an open-source encrypted local-first payment infrastructure. It enables private merchant-owned commerce without surveillance or centralized control.
+
+- [**LoanSphere Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/812856568f776d92067ec9a2b0dddd64929adcc2/LoanSphere.md)  
+[https://roxanneardary.com/loansphere/](https://roxanneardary.com/loansphere/)  
+LoanSphere is an open source specification for connected lending systems, providing a modular framework for defining, managing, and integrating loan programs, qualification criteria, pricing models, repayment structures, and lending workflows. It enables financial organizations to build interoperable lending solutions while maintaining control over their own lending policies, requirements, and business rules.  
 
 - [**Nexa: Continuity Engine Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/34f94f6fd01481cb2ce19732245fb73499f05a0f/Nexa.md)    
   [https://roxanneardary.com/nexa/](https://roxanneardary.com/nexa/)  
