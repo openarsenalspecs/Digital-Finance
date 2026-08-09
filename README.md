@@ -69,7 +69,7 @@ LoanSphere is an open source specification for connected lending systems, provid
   [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
   Orvian is an AI-driven personal financial operating system. It organizes money into intelligent envelopes for budgeting, goals, and tax automation over existing bank accounts.  
 
-- **PayTerrain**  
+- [**PayTerrain Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/be8e5636558ba1681cc3cc9d4995261b9b6c8ea9/PayTerrain.md)    
   [https://roxanneardary.com/payterrain/](https://roxanneardary.com/payterrain/)  
   PayTerrain tracks real wages and cost-of-living adjustments. It provides analytics for fair compensation.  
 
