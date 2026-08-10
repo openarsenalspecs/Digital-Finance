@@ -43,7 +43,11 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 - **FiscalTruth**  
   [https://roxanneardary.com/fiscaltruth/](https://roxanneardary.com/fiscaltruth/)  
-  FiscalTruth is an open-source civic watchdog and whistleblower platform. It tracks public spending, detects financial anomalies, and empowers citizens with transparency into tax dollar allocation.  
+  FiscalTruth is an open-source civic watchdog and whistleblower platform. It tracks public spending, detects financial anomalies, and empowers citizens with transparency into tax dollar allocation.
+
+- [**FuturePathway Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/33a068b6b286352f55e31d9b657e00039348acec/FuturePathway.md)  
+[https://roxanneardary.com/futurepathway/](https://roxanneardary.com/futurepathway/)   
+FuturePathway is an open source specification for deterministic education financing that uses average starting salaries to establish predictable loan limits, while AI assists students with career planning, school discovery, and identifying education pathways that fit within their qualifying financing.  
 
 - [**Internal Credit Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/ba27717f6f62602952efa2711629bd77a2e7bb36/Internal%20Credit.md)    
   [https://roxanneardary.com/internal-credit/](https://roxanneardary.com/internal-credit/)  
