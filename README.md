@@ -53,7 +53,7 @@ FuturePathway is an open source specification for deterministic education financ
   [https://roxanneardary.com/internal-credit/](https://roxanneardary.com/internal-credit/)  
   Internal Credit is an AI-powered modular financial platform. It enables users to borrow against their own savings while continuing to earn returns on deposited capital.
 
-- **JubileeLoan**  
+- [**JubileeLoan Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/b595948a697c98302b58d57efe11e8ee6b98c120/JubileeLoan.md)    
 [https://roxanneardary.com/jubileeloan/](https://roxanneardary.com/jubileeloan/)  
 JubileeLoan is a deterministic financing specification for refinancing school loans that have exceeded 15 years in repayment, with a one-time 1% interest charge, preservation of the existing monthly payment, a maximum 10-year repayment period, and mandatory debt jubilee for any remaining eligible balance.  
 
