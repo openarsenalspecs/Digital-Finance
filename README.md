@@ -125,7 +125,7 @@ Solvra is an open-source controlled amortization engine that provides transparen
   [https://roxanneardary.com/vantor/](https://roxanneardary.com/vantor/)  
   Vantor is a deterministic capital routing system. It converts explicit user-defined financial intent into structured rule-validated deposit-only execution instructions.  
 
-- **Wealth Continuum**  
+- [**Wealth Continuum Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/db676cd2a3b2a6530c80a9a5a6b8e9911a00351f/Wealth%20Continuum.md)    
   [https://roxanneardary.com/wealth-continuum/](https://roxanneardary.com/wealth-continuum/)  
   Wealth Continuum is an AI-powered research platform for long-term capital stewards. It focuses on transparency, ownership quality, governance, and generational wealth analysis.
 
