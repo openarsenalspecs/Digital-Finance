@@ -121,7 +121,7 @@ Solvra is an open-source controlled amortization engine that provides transparen
   [https://roxanneardary.com/trusttip/](https://roxanneardary.com/trusttip/)  
   TrustTip is a cross-platform audit-grade tipping and attribution system. It links every digital tip to its exact source content, reason, and structured financial record.  
 
-- **Vantor**  
+- [**Vantor Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/cd7a95c507b763e3e3e681226ab74f9ab7fd1b33/Vantor.md)    
   [https://roxanneardary.com/vantor/](https://roxanneardary.com/vantor/)  
   Vantor is a deterministic capital routing system. It converts explicit user-defined financial intent into structured rule-validated deposit-only execution instructions.  
 
