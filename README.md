@@ -69,7 +69,7 @@ LoanSphere is an open source specification for connected lending systems, provid
   [https://roxanneardary.com/nexa/](https://roxanneardary.com/nexa/)  
   Nexa is a generational wealth operating system. It structures, simulates, and governs long-term financial systems through programmable trust logic and multi-generational continuity modeling.  
 
-- **OpenLeverage Lab**  
+- [**OpenLeverage Lab Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/46592b40767e7cf70585d700f6a0dfeb08bc582e/OpenLeverage%20Lab.md)    
   [https://roxanneardary.com/openleverage-lab/](https://roxanneardary.com/openleverage-lab/)  
   OpenLeverage Lab is an open-source financial simulation engine. It forecasts leverage outcomes, margin risk, and portfolio behavior under real-world market uncertainty.
 
