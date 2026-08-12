@@ -93,7 +93,7 @@ LoanSphere is an open source specification for connected lending systems, provid
   [https://roxanneardary.com/quantumsettle/](https://roxanneardary.com/quantumsettle/)  
   QuantumSettle is an AI-driven financial operating system. It provides stable denomination-guaranteed settlement and intelligent liquidity management across volatile global markets.  
 
-- **SharedRail**  
+- [**SharedRail Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/2691f53a5db27bff81ef8440f5a60f6a71b5bfd9/SharedRail.md)    
   [https://roxanneardary.com/sharedrail/](https://roxanneardary.com/sharedrail/)  
   SharedRail is an open-source federated payment infrastructure. It enables secure identity-based multi-currency transactions with modular compliance and instant global settlement.  
 
