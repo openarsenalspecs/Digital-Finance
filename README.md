@@ -25,7 +25,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/altius-capital-os/](https://roxanneardary.com/altius-capital-os/)  
   Altius Capital OS is a modular financial operating system. It transforms tax codes, regulatory rules, and custody constraints into a deterministic, auditable capital computation engine.  
 
-- **BalanceSeal**  
+- [**BalanceSeal Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/892723f5e4258be0f7ca63c35bc666b2285cd04f/BalanceSeal.md)    
   [https://roxanneardary.com/balanceseal/](https://roxanneardary.com/balanceseal/)  
   BalanceSeal is a cryptographic audit and termination snapshot system for cryptocurrency exchanges and wallets. It generates verifiable final-state balance reports with time-frozen valuation and tamper-evident integrity.  
 
