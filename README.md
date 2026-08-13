@@ -39,7 +39,11 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 - [**ExitCompute Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/573f210007ba50e26a164994a1ef520a455a7e02/ExitCompute.md)    
   [https://roxanneardary.com/exitcompute/](https://roxanneardary.com/exitcompute/)  
-  ExitCompute is an AI platform for financial decision-making. It combines macroeconomic signals and portfolio risk models.  
+  ExitCompute is an AI platform for financial decision-making. It combines macroeconomic signals and portfolio risk models.
+
+- **Explorer Captial**  
+[https://roxanneardary.com/explorer-capital/](https://roxanneardary.com/explorer-capital/)  
+Explorer Capital is a deterministic financing specification for participants in an approved World Expedition Program curriculum, offering up to $120,000 at 5% interest with a two-year interest-free delay and six years of equal principal and interest payments. Standard amortization establishes the total interest, while the Explorer Capital model distributes principal and interest equally across payments, with prepayments shortening the term and eliminating associated future interest.  
 
 - **FiscalTruth**  
   [https://roxanneardary.com/fiscaltruth/](https://roxanneardary.com/fiscaltruth/)  
