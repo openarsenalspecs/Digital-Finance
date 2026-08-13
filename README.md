@@ -65,6 +65,10 @@ JubileeLoan is a deterministic financing specification for refinancing school lo
   [https://roxanneardary.com/latticepay/](https://roxanneardary.com/latticepay/)  
   LatticePay is an open-source encrypted local-first payment infrastructure. It enables private merchant-owned commerce without surveillance or centralized control.
 
+- **LivingTrust Standard**  
+[https://roxanneardary.com/livingtrust-standard/](https://roxanneardary.com/livingtrust-standard/)  
+LivingTrust Standard is an AGPL-3.0+ open source specification for modular living trusts focused on stable income, capital preservation, predictable distributions, and long-term financial stability. It provides standardized beneficiary succession, state-based cost-of-living calculations, AI-assisted research, and independent trust architecture designed to create a foundation for every generation.  
+
 - [**LoanSphere Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/812856568f776d92067ec9a2b0dddd64929adcc2/LoanSphere.md)  
 [https://roxanneardary.com/loansphere/](https://roxanneardary.com/loansphere/)  
 LoanSphere is an open source specification for connected lending systems, providing a modular framework for defining, managing, and integrating loan programs, qualification criteria, pricing models, repayment structures, and lending workflows. It enables financial organizations to build interoperable lending solutions while maintaining control over their own lending policies, requirements, and business rules.  
