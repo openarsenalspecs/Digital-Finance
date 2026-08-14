@@ -29,7 +29,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
   [https://roxanneardary.com/balanceseal/](https://roxanneardary.com/balanceseal/)  
   BalanceSeal is a cryptographic audit and termination snapshot system for cryptocurrency exchanges and wallets. It generates verifiable final-state balance reports with time-frozen valuation and tamper-evident integrity.
 
-- **CaptialScope**
+- [**CaptialScope Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/9b26f24181b09014bcf15d6d980c11fff9718b21/CapitalScope.md)  
 [https://roxanneardary.com/capitalscope/](https://roxanneardary.com/capitalscope/)  
 CapitalScope is an open source specification for AI-assisted venture financing that evaluates Enterprise Creators through business analysis, market demand, predictive modeling, emerging technology assessment, risk scoring, and cost validation. It provides Venture Capitalists with a deterministic financing framework featuring a fixed 4% interest rate, predictable repayment, principal-linked interest elimination, penalty-free prepayment, and optional business development plugins.  
 
