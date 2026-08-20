@@ -125,7 +125,7 @@ Solvra is an open-source controlled amortization engine that provides transparen
   [https://roxanneardary.com/the-open-work-system/](https://roxanneardary.com/the-open-work-system/)  
   The Open Work System is an AI-driven coordination and incentive protocol for open-source development. It measures contributions, prevents duplication, and distributes funding based on verified impact.  
 
-- [**TrustCard Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/836d313a71be6fe9ada38e50c27773cbbf1650ca/TrustCard.md)    
+- [**TrustCard Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/f58b67f95efb7f3b06fa962d813d7c061f6f7e60/TrustCard.md)  
   [https://roxanneardary.com/trustcard/](https://roxanneardary.com/trustcard/)  
   TrustCard is an open-source privacy-first digital wallet and universal payment platform. It uses end-to-end encryption, secure authentication, and transparent financial infrastructure.  
 
