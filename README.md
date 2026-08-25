@@ -47,7 +47,15 @@ CapitalScope is an open source specification for AI-assisted venture financing t
 
 - [**Explorer Captial Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/2938e500a25047dbfd7af454c215e2ceff7ad30e/Explorer.md)    
 [https://roxanneardary.com/explorer-capital/](https://roxanneardary.com/explorer-capital/)  
-Explorer Capital is a deterministic financing specification for participants in an approved World Expedition Program curriculum, offering up to $120,000 at 5% interest with a two-year interest-free delay and six years of equal principal and interest payments. Standard amortization establishes the total interest, while the Explorer Capital model distributes principal and interest equally across payments, with prepayments shortening the term and eliminating associated future interest.  
+Explorer Capital is a deterministic financing specification for participants in an approved World Expedition Program curriculum, offering up to $120,000 at 5% interest with a two-year interest-free delay and six years of equal principal and interest payments. Standard amortization establishes the total interest, while the Explorer Capital model distributes principal and interest equally across payments, with prepayments shortening the term and eliminating associated future interest.
+
+- **FinAxis**  
+[https://roxanneardary.com/finaxis/](https://roxanneardary.com/finaxis/)  
+FinAxis is an AI and LLM-ready regulatory intelligence specification that helps lending businesses understand federal, state, and local requirements across consumer, personal, business, commercial, mortgage, and other lending products. It provides a modular framework for licensing, pricing, disclosures, forms, underwriting, compliance, servicing, collections, privacy, regulatory monitoring, and source-verified legal guidance.
+
+- **FiniteTerm**  
+[https://roxanneardary.com/finiteterm/](https://roxanneardary.com/finiteterm/)  
+A modular open source specification for deterministic financing across industries and products, providing financing you can model through defined terms, affordability, payments, costs, and lifecycle rules.  
 
 - **FiscalTruth**  
   [https://roxanneardary.com/fiscaltruth/](https://roxanneardary.com/fiscaltruth/)  
