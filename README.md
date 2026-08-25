@@ -89,7 +89,7 @@ LoanSphere is an open source specification for connected lending systems, provid
   [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
   Orvian is an AI-driven personal financial operating system. It organizes money into intelligent envelopes for budgeting, goals, and tax automation over existing bank accounts.
 
-- **Paystead**  
+- [**Paystead Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/f380b3a029b1412f08cc313ca0580f90de12585c/Paystead.md)    
 [https://roxanneardary.com/paystead/](https://roxanneardary.com/paystead/)  
 Paystead is a locally hosted financial management platform that unifies banking, bills, payments, statements, checks, and financial records across multiple financial institutions. AI assists with financial tasks while users retain control over permissions, approvals, and money-moving decisions.  
 
