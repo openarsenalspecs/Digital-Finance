@@ -49,9 +49,9 @@ CapitalScope is an open source specification for AI-assisted venture financing t
 [https://roxanneardary.com/explorer-capital/](https://roxanneardary.com/explorer-capital/)  
 Explorer Capital is a deterministic financing specification for participants in an approved World Expedition Program curriculum, offering up to $120,000 at 5% interest with a two-year interest-free delay and six years of equal principal and interest payments. Standard amortization establishes the total interest, while the Explorer Capital model distributes principal and interest equally across payments, with prepayments shortening the term and eliminating associated future interest.
 
-- **FinAxis**  
+- [**FinAxis Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/b1e3d6994ae3f2fb039e4565fad4f36d50324d1e/FinAxis.md)    
 [https://roxanneardary.com/finaxis/](https://roxanneardary.com/finaxis/)  
-FinAxis is an AI and LLM-ready regulatory intelligence specification that helps lending businesses understand federal, state, and local requirements across consumer, personal, business, commercial, mortgage, and other lending products. It provides a modular framework for licensing, pricing, disclosures, forms, underwriting, compliance, servicing, collections, privacy, regulatory monitoring, and source-verified legal guidance.
+FinAxis is an AI and LLM-ready regulatory intelligence specification that helps lending businesses understand federal, state, and local requirements across consumer, personal, business, commercial, mortgage, and other lending products. It provides a modular framework for licensing, pricing, disclosures, forms, underwriting, compliance, servicing, collections, privacy, regulatory monitoring, and source-verified legal guidance.  
 
 - **FiniteTerm**  
 [https://roxanneardary.com/finiteterm/](https://roxanneardary.com/finiteterm/)  
