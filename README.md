@@ -61,7 +61,7 @@ A modular open source specification for deterministic financing across industrie
   [https://roxanneardary.com/fiscaltruth/](https://roxanneardary.com/fiscaltruth/)  
   FiscalTruth is an open-source civic watchdog and whistleblower platform. It tracks public spending, detects financial anomalies, and empowers citizens with transparency into tax dollar allocation.  
 
-- [**FuturePathway Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/33a068b6b286352f55e31d9b657e00039348acec/FuturePathway.md)  
+- [**FuturePathway Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/8406edaa992da1213791046d4b2f3881cfdf956a/FuturePathway.md)  
 [https://roxanneardary.com/futurepathway/](https://roxanneardary.com/futurepathway/)   
 FuturePathway is an open source specification for deterministic education financing that uses average starting salaries to establish predictable loan limits, while AI assists students with career planning, school discovery, and identifying education pathways that fit within their qualifying financing.  
 
