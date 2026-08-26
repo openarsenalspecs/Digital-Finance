@@ -105,6 +105,10 @@ Paystead is a locally hosted financial management platform that unifies banking,
   [https://roxanneardary.com/payterrain/](https://roxanneardary.com/payterrain/)  
   PayTerrain tracks real wages and cost-of-living adjustments. It provides analytics for fair compensation.  
 
+- [**PrePayGuard Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/6ce20f91a1c86f92fab299f72199b09e5a92b252/PrePayGuard.md)  
+[https://roxanneardary.com/prepayguard/](https://roxanneardary.com/prepayguard/)  
+PrePayGuard is an open source AI specification designed to help users keep payments on time while preventing overdrafts, bounced checks, and funding failures. It monitors bills, statements, payment deadlines, and account balances, providing advance warnings and coordinated financial guidance while keeping consequential decisions under human control.
+
 - [**ProofRail Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/415bd6cac1328d615a49464691f205c3d29b960a/ProofRail.md)  
   [https://roxanneardary.com/proofrail/](https://roxanneardary.com/proofrail/)  
   ProofRail is an open-source trust-native financial infrastructure protocol. It enables real-time programmable and verifiable money movement through Proof-Powered Finance.  
