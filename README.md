@@ -109,7 +109,7 @@ Paystead is a locally hosted financial management platform that unifies banking,
   [https://roxanneardary.com/proofrail/](https://roxanneardary.com/proofrail/)  
   ProofRail is an open-source trust-native financial infrastructure protocol. It enables real-time programmable and verifiable money movement through Proof-Powered Finance.  
 
-- **PublicLaunch**  
+- [**PublicLaunch Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/ae6f940af94bcbb373f7b22bddcb233e9ceb4860/PublicLaunch.md)    
   [https://roxanneardary.com/publiclaunch/](https://roxanneardary.com/publiclaunch/)  
   PublicLaunch is an open-source AI-powered market intelligence platform. It quantifies market behavior through historical analysis, manipulation-risk assessment, IPO research, and probabilistic outcome modeling.   
 
