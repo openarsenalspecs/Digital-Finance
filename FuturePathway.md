@@ -1,7 +1,8 @@
 # FuturePathway
-
 **Plan the Path. Fund the Future.**
+- HTML Mirror:  [https://roxanneardary.com/futurepathway-specification/](https://roxanneardary.com/futurepathway-specification/)  
 
+---
 FuturePathway is an open source specification for deterministic education financing designed to connect educational opportunity with realistic career earning potential. The specification establishes transparent financing rules based on the annually updated average starting salary for a selected career field, while using AI assistance to help students identify viable career paths, educational programs, and schools that meet the financing requirements.
 
 FuturePathway is built around the principle that **investing in the future means investing in youth**. Rather than using opaque lending models to determine how much educational debt a student can carry, FuturePathway establishes predictable qualification criteria that connect the total cost of education to the expected starting salary associated with the student's selected career field.
