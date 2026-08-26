@@ -1,6 +1,8 @@
 # CapitalScope
-
 **Capital, Clearly Structured.**
+- HTML Mirror:  [https://roxanneardary.com/capitalscope-specification/](https://roxanneardary.com/capitalscope-specification/)  
+
+---
 
 CapitalScope is an AGPL-3.0+ open source specification for deterministic venture financing between a **Venture Capitalist** and an **Enterprise Creator**. The specification combines AI-assisted business analysis, market demand evaluation, emerging technology forecasting, risk scoring, cost validation, and deterministic financing rules into a modular financing framework.
 
@@ -41,6 +43,8 @@ CapitalScope is based on the following principles:
 - Auditable financing records
 - Vendor-neutral implementation
 - Open source interoperability
+
+---
 
 ## Core Modules
 
@@ -544,6 +548,8 @@ A score of 70 or greater establishes eligibility for consideration.
 It does not require the Venture Capitalist to fund the Enterprise Creator.
 
 The Venture Capitalist must be able to review the underlying analysis before approving financing.
+
+---
 
 ## Optional Plugin Modules
 
