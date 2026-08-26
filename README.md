@@ -129,7 +129,7 @@ Paystead is a locally hosted financial management platform that unifies banking,
 [https://roxanneardary.com/solvra/](https://roxanneardary.com/solvra/)  
 Solvra is an open-source controlled amortization engine that provides transparent loan modeling through capped interest calculations and evenly distributed payments across the full loan term. It enables deterministic mortgage scenarios, affordability analysis, and financial simulations through a modular architecture designed for extensibility and transparency.  
 
-- **TaxLensUS**  
+- [**TaxLensUS Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/137dd23f9557b205d550512cea127fb3937f133e/TaxLensUS.md)    
   [https://roxanneardary.com/taxlensus/](https://roxanneardary.com/taxlensus/)  
   TaxLensUS is an open-source AI system for U.S. tax analysis. It examines corporate tax filings and economic data to estimate policy impacts on small businesses.  
 
