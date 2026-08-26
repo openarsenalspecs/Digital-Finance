@@ -57,9 +57,9 @@ FinAxis is an AI and LLM-ready regulatory intelligence specification that helps 
 [https://roxanneardary.com/finiteterm/](https://roxanneardary.com/finiteterm/)  
 A modular open source specification for deterministic financing across industries and products, providing financing you can model through defined terms, affordability, payments, costs, and lifecycle rules.  
 
-- **FiscalTruth**  
+- [**FiscalTruth Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/eca85cbaaa39c31d432d7f67a0559b58ecf4559a/FiscalTruth.md)    
   [https://roxanneardary.com/fiscaltruth/](https://roxanneardary.com/fiscaltruth/)  
-  FiscalTruth is an open-source civic watchdog and whistleblower platform. It tracks public spending, detects financial anomalies, and empowers citizens with transparency into tax dollar allocation.
+  FiscalTruth is an open-source civic watchdog and whistleblower platform. It tracks public spending, detects financial anomalies, and empowers citizens with transparency into tax dollar allocation.  
 
 - [**FuturePathway Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/33a068b6b286352f55e31d9b657e00039348acec/FuturePathway.md)  
 [https://roxanneardary.com/futurepathway/](https://roxanneardary.com/futurepathway/)   
