@@ -21,7 +21,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 ## Digital Finance Specs
 
-- **Altius Capital OS**  
+- [**Altius Capital OS Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/1ee35be9a8d3cf8e9d63e68c44f54693719b57ce/Altius%20Capital%20OS.md)    
   [https://roxanneardary.com/altius-capital-os/](https://roxanneardary.com/altius-capital-os/)  
   Altius Capital OS is a modular financial operating system. It transforms tax codes, regulatory rules, and custody constraints into a deterministic, auditable capital computation engine.  
 
