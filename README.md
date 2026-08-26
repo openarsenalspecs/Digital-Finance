@@ -53,7 +53,7 @@ Explorer Capital is a deterministic financing specification for participants in 
 [https://roxanneardary.com/finaxis/](https://roxanneardary.com/finaxis/)  
 FinAxis is an AI and LLM-ready regulatory intelligence specification that helps lending businesses understand federal, state, and local requirements across consumer, personal, business, commercial, mortgage, and other lending products. It provides a modular framework for licensing, pricing, disclosures, forms, underwriting, compliance, servicing, collections, privacy, regulatory monitoring, and source-verified legal guidance.  
 
-- **FiniteTerm**  
+- [**FiniteTerm Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/859bd4ab555517a4efccda56b344c4ba4be38643/FiniteTerm.md)    
 [https://roxanneardary.com/finiteterm/](https://roxanneardary.com/finiteterm/)  
 A modular open source specification for deterministic financing across industries and products, providing financing you can model through defined terms, affordability, payments, costs, and lifecycle rules.  
 
