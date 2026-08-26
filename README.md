@@ -37,7 +37,7 @@ CapitalScope is an open source specification for AI-assisted venture financing t
   [https://roxanneardary.com/cryptocradle/](https://roxanneardary.com/cryptocradle/)  
   CryptoCradle serves as a global startup accelerator for fractional investments. It supports multi-currency funding and blockchain equity tracking.  
 
-- **Crystal Ledger**  
+- [**Crystal Ledger Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/26b13cd3fc46fc901bc41b3528d2c6a906206104/Crystal%20Ledger.md)    
   [https://roxanneardary.com/crystal-ledger/](https://roxanneardary.com/crystal-ledger/)  
   Crystal Ledger is an open-source custodial financial infrastructure system. It provides verifiable transparency, Bitcoin-first treasury management, and immutable cryptographically auditable accounting.  
 
