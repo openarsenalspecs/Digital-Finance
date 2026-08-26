@@ -41,9 +41,9 @@ CapitalScope is an open source specification for AI-assisted venture financing t
   [https://roxanneardary.com/crystal-ledger/](https://roxanneardary.com/crystal-ledger/)  
   Crystal Ledger is an open-source custodial financial infrastructure system. It provides verifiable transparency, Bitcoin-first treasury management, and immutable cryptographically auditable accounting.  
 
-- [**ExitCompute Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/573f210007ba50e26a164994a1ef520a455a7e02/ExitCompute.md)    
+- [**ExitCompute Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/d535c27010f2c91e35eee27e1f0f3ceafe482c8c/ExitCompute.md)   
   [https://roxanneardary.com/exitcompute/](https://roxanneardary.com/exitcompute/)  
-  ExitCompute is an AI platform for financial decision-making. It combines macroeconomic signals and portfolio risk models.
+  ExitCompute is an AI platform for financial decision-making. It combines macroeconomic signals and portfolio risk models.  
 
 - [**Explorer Captial Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/2938e500a25047dbfd7af454c215e2ceff7ad30e/Explorer.md)    
 [https://roxanneardary.com/explorer-capital/](https://roxanneardary.com/explorer-capital/)  
