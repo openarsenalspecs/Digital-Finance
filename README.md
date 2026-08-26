@@ -33,7 +33,7 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 [https://roxanneardary.com/capitalscope/](https://roxanneardary.com/capitalscope/)  
 CapitalScope is an open source specification for AI-assisted venture financing that evaluates Enterprise Creators through business analysis, market demand, predictive modeling, emerging technology assessment, risk scoring, and cost validation. It provides Venture Capitalists with a deterministic financing framework featuring a fixed 4% interest rate, predictable repayment, principal-linked interest elimination, penalty-free prepayment, and optional business development plugins.  
 
-- [**CryptoCradle Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/b0c8e982f4d3403a4e49cf8d57b7b9a54ef55a5a/CryptoCradle.md)    
+- [**CryptoCradle Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/7862faa688a589f5bc9e9027cc21d76c3671df1d/CryptoCradle.md)     
   [https://roxanneardary.com/cryptocradle/](https://roxanneardary.com/cryptocradle/)  
   CryptoCradle serves as a global startup accelerator for fractional investments. It supports multi-currency funding and blockchain equity tracking.  
 
