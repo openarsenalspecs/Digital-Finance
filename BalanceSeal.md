@@ -1,6 +1,8 @@
 # BalanceSeal
-
 **Close with certainty.**
+- HTML Mirror: [https://roxanneardary.com/balanceseal-specification/](https://roxanneardary.com/balanceseal-specification/)  
+
+---
 
 BalanceSeal is an AGPL 3.0+ licensed, modular audit and final-account reconciliation component for cryptocurrency exchanges, custodial wallets, digital asset platforms, and other systems that maintain cryptocurrency balances.
 
@@ -35,6 +37,8 @@ BalanceSeal follows these core design principles:
 - Human-readable and machine-readable reporting
 - Extensible adapter and plugin architecture
 - No transaction execution as part of the core system
+
+---
 
 ## Core Modules
 
@@ -490,6 +494,8 @@ Features include:
 
 Configuration thresholds must never cause BalanceSeal to omit an asset from the final accounting record.
 
+---
+
 ## Optional Plugin Modules
 
 BalanceSeal uses an extensible plugin architecture so additional capabilities can be added without modifying the core accounting engine.
@@ -640,6 +646,8 @@ An optional analytics plugin may provide:
 - Asset distribution analysis
 - Termination reporting analytics
 - Platform-wide reconciliation statistics
+
+---
 
 ## Account Termination Workflow
 
