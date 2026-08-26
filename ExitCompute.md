@@ -1,118 +1,1341 @@
 # ExitCompute  
-### **Macro Signals and Risk Models—Combined for Your Exit Plan.**
-
-ExitCompute is an open-source, RIA-style decision-support system designed to help retail investors determine **when and how to exit the stock market** with maximum capital preservation, minimized taxes, and personalized financial alignment.
-
-Built on transparent models, macroeconomic indicators, scenario simulations, and structured best practices, ExitCompute empowers users to unwind market exposure safely, intelligently, and methodically.
+**Macro Signals and Risk Models—Combined for Your Exit Plan.**
+- HTML Mirror: [https://roxanneardary.com/exitcompute-specification/](https://roxanneardary.com/exitcompute-specification/)  
 
 ---
 
-## 🚀 **Purpose**
+## Mission
 
-Retail investors often enter the market easily—but exiting safely is far more complex.  
-ExitCompute addresses this by providing:
+ExitCompute is an open-source AI platform designed to help investors make structured decisions about exiting the stock market.
 
-- **Personalized exit recommendations**, based on user financial needs  
-- **Macro-informed modeling** using interest rates, inflation, liquidity data, and volatility regimes  
-- **Tax-aware exit strategies**, including capital gains planning and loss harvesting windows  
-- **Full scenario modeling**, showing outcomes under different:  
-  - macroeconomic futures  
-  - exit speeds  
-  - drawdown conditions  
-  - tax profiles  
-  - risk preferences  
+The system is designed around the principle that successful investing is not only about entering an investment or accumulating returns. It is also about determining when accumulated capital and gains should be protected.
 
-ExitCompute does **not** predict markets.  
-It **models tradeoffs** and allows investors to exit with clarity instead of emotion.
+ExitCompute analyzes the relationship between personal financial requirements, portfolio exposure, market conditions, macroeconomic signals, risk factors, taxation, and potential future scenarios.
+
+The platform does not attempt to guarantee that users will identify a market top. Instead, it evaluates the tradeoffs between remaining invested and reducing exposure under different market and personal financial conditions.
+
+The system must prioritize capital preservation, transparency, explainability, scenario comparison, tax awareness, and user control.
 
 ---
 
-## 🧠 Core Features
+## Core Design Principles
 
-### **1. Personal Financial Alignment**
-- Define time horizon, liquidity needs, retirement windows, income stability, and risk tolerance  
-- AI aligns exit pace to user life constraints  
+ExitCompute must follow these principles:
 
-### **2. Macro Signal Engine**
-Incorporates leading and lagging indicators including:
-- Interest rate cycles  
-- Yield curve shape  
-- Volatility indices  
-- Employment data  
-- Money supply changes  
-- Corporate credit stress  
-- Asset correlation regimes  
-- Momentum and liquidity measures  
-
-### **3. Market Exit Scenario Simulator**
-Runs multi-path simulations for:
-- Slow exit (DCA out)  
-- Fast exit (triggered risk-off)  
-- Hybrid exit (macro + portfolio stress)  
-- Profit-first exit  
-- Tax-optimized exit  
-- Scenario overlays including:  
-  - recession onset  
-  - inflation spikes  
-  - liquidity crunches  
-  - volatility breakouts  
-  - bull continuation  
-
-### **4. Tax Optimization Layer**
-- Capital gains tax projection  
-- Harvest timing optimizer  
-- Holding period rebalancing  
-- Long-term vs short-term gains difference modeling  
-- State taxation overlays  
-
-### **5. RIA-Style Risk & Disclosure Framework**
-- Transparent assumptions  
-- Adjustable risk factors  
-- No black-box forecasting  
-- Educational output instead of direct financial advice  
-
-### **6. Web Service Architecture**
-ExitCompute is designed to run as a full web service with:
-- API layer for data ingestion  
-- Scenario computation engine  
-- Frontend dashboard  
-- Audit logs  
-- Model transparency panels  
-- User-specific configuration  
+- Open-source development
+- Modular architecture
+- Transparent calculations
+- Explainable AI
+- Reproducible analysis
+- User-controlled assumptions
+- Human-in-the-loop decision making
+- Separation of analysis from trade execution
+- Scenario-based decision support
+- Tax-aware planning
+- Macro-aware risk analysis
+- Portfolio-level analysis
+- Clear uncertainty communication
+- No guaranteed financial outcomes
+- No false precision
+- No dependence on a single data provider
+- Replaceable AI models
+- Replaceable financial data sources
+- Extensible plugin architecture
+- Privacy-conscious handling of financial information
+- RIA-style analytical and disclosure practices
 
 ---
 
-## 📡 Tech Stack (Recommended)
+## System Architecture
 
-- **Backend:** Python / FastAPI for service API  
-- **Scenario Engine:** Python, NumPy, Pandas, statistical modeling, risk modules  
-- **Macro Engine:** Scheduled fetchers + normalization pipelines  
-- **Frontend:** Vue, React, or Svelte  
-- **Data Storage:** Postgres  
-- **CI/CD:** GitLab pipelines  
-- **Containerization:** Docker  
-- **Model Docs:** Markdown + OpenAPI spec  
+ExitCompute shall operate as a web service consisting of modular analytical services connected through a common application interface.
+
+The platform shall separate:
+
+- User financial inputs
+- Portfolio analysis
+- Market data
+- Macroeconomic analysis
+- Risk calculations
+- Scenario simulations
+- Tax analysis
+- AI interpretation
+- Compliance and disclosure
+- Reporting
+- Notifications
+- Optional integrations
+
+Core analytical calculations should not depend on the AI language model.
+
+The AI layer should interpret, explain, compare, and communicate outputs generated by deterministic and statistical engines.
+
+Financial calculations should remain independently testable without requiring an AI model.
 
 ---
 
-## 📁 Repository Structure (Suggested)
-```
-/docs
-/architecture
-/scenarios
-/api
-/src
-/backend
-/frontend
-/macro_engine
-/risk_models
-/scenario_engine
-/tests
-/config
-License
-notice.md
-README.md
-```
+## Core Modules
+
+### Personal Financial Planning Module
+
+The Personal Financial Planning Module shall collect and model the user's financial objectives and constraints.
+
+The module shall support:
+
+- Financial goals
+- Investment objectives
+- Time horizon
+- Income information
+- Cash flow requirements
+- Emergency cash requirements
+- Planned expenditures
+- Retirement timelines
+- Liquidity requirements
+- Risk tolerance
+- Maximum acceptable loss
+- Minimum desired capital preservation
+- Minimum desired profit preservation
+- Desired cash-out amount
+- Desired exit date
+- Exit urgency
+- Partial-exit objectives
+- Full-exit objectives
+- User-defined financial priorities
+
+The module shall distinguish between financial information supplied by the user and values calculated by ExitCompute.
+
+The module shall identify missing information that could materially affect an analysis.
+
+---
+
+### Portfolio Analysis Module
+
+The Portfolio Analysis Module shall evaluate the user's current investment exposure.
+
+The module shall support:
+
+- Securities
+- Shares or units
+- Current market value
+- Purchase price
+- Cost basis
+- Acquisition date
+- Unrealized gains
+- Unrealized losses
+- Realized gains
+- Realized losses
+- Position concentration
+- Sector concentration
+- Asset allocation
+- Portfolio beta
+- Historical volatility
+- Correlation
+- Drawdown
+- Liquidity
+- Principal at risk
+- Profit at risk
+- Market exposure
+
+The module shall calculate position-level and portfolio-level risk.
+
+The module shall identify concentrations that could materially affect an exit strategy.
+
+---
+
+### Market Data Module
+
+The Market Data Module shall ingest and normalize market information required by the analytical engines.
+
+Supported information may include:
+
+- Security prices
+- Historical prices
+- Trading volume
+- Market capitalization
+- Earnings information
+- Valuation metrics
+- Dividend information
+- Volatility data
+- Index data
+- Sector data
+- Market breadth
+- Interest rates
+- Treasury yields
+- Credit spreads
+
+The module shall record:
+
+- Data source
+- Retrieval timestamp
+- Data period
+- Data quality
+- Data version
+- Missing values
+- Data transformations
+
+The system shall avoid creating analytical conclusions from stale or incomplete data without clearly identifying the limitation.
+
+---
+
+### Macro Signal Module
+
+The Macro Signal Module shall evaluate macroeconomic conditions that may influence portfolio risk and market behavior.
+
+The module shall support analysis of:
+
+- Interest rates
+- Federal funds rate
+- Treasury yields
+- Yield curve
+- Yield curve inversions
+- Inflation
+- Consumer Price Index
+- Producer Price Index
+- Employment
+- Unemployment
+- Payroll trends
+- GDP
+- Consumer confidence
+- Manufacturing activity
+- Services activity
+- Purchasing Managers' Index
+- Credit spreads
+- Corporate credit conditions
+- Banking-sector stress
+- Liquidity conditions
+- Money supply
+- Financial conditions
+- Volatility regimes
+- Earnings trends
+
+The module shall classify macroeconomic conditions into configurable regimes.
+
+Possible regimes include:
+
+- Expansion
+- Late expansion
+- Slowdown
+- Recession
+- Recovery
+- Inflationary stress
+- Deflationary stress
+- Liquidity stress
+- Credit stress
+- High-volatility environment
+
+The module shall calculate a configurable Macro Risk Score.
+
+The score shall expose the underlying signals and weights rather than functioning as an unexplained black box.
+
+---
+
+### Market Valuation Module
+
+The Market Valuation Module shall evaluate whether securities, sectors, or broader markets appear historically expensive, inexpensive, or within normal valuation ranges.
+
+The module shall support:
+
+- Price-to-earnings analysis
+- Forward price-to-earnings analysis
+- Price-to-sales analysis
+- Price-to-book analysis
+- Earnings yield
+- Historical valuation percentiles
+- Sector-relative valuation
+- Market concentration
+- Valuation expansion
+- Valuation contraction
+- Momentum versus valuation
+- Fundamental versus price divergence
+
+The module shall identify valuation conditions as risk indicators rather than treating valuation alone as a market-timing mechanism.
+
+---
+
+### Risk Analysis Module
+
+The Risk Analysis Module shall quantify portfolio risk under current and hypothetical conditions.
+
+The module shall support:
+
+- Historical volatility
+- Portfolio volatility
+- Beta
+- Drawdown
+- Maximum drawdown
+- Value at Risk
+- Conditional Value at Risk
+- Expected Shortfall
+- Downside deviation
+- Sharpe ratio
+- Sortino ratio
+- Correlation risk
+- Concentration risk
+- Liquidity risk
+- Tail risk
+- Position-level risk contribution
+- Portfolio-level risk contribution
+- Volatility clustering
+- Risk regime analysis
+
+The module shall calculate a Portfolio Risk Score.
+
+All material risk calculations shall expose their methodology and assumptions.
+
+---
+
+### Tail Risk Module
+
+The Tail Risk Module shall evaluate the potential consequences of unusually severe market events.
+
+The module shall support:
+
+- Extreme-loss estimation
+- Fat-tail analysis
+- Conditional Value at Risk
+- Expected Shortfall
+- Gap-down analysis
+- Correlation convergence
+- Liquidity deterioration
+- Multi-factor stress
+- Cascading-risk scenarios
+- Extreme volatility scenarios
+- Black-swan sensitivity analysis
+
+Tail-risk outputs shall communicate that extreme-event models contain substantial uncertainty.
+
+---
+
+### Scenario Engine Module
+
+The Scenario Engine shall be a central component of ExitCompute.
+
+It shall allow users to compare multiple exit strategies using common assumptions and standardized outputs.
+
+The engine shall support:
+
+- Immediate Exit
+- Gradual Exit
+- Dollar-Based Exit
+- Percentage-Based Exit
+- Profit-Only Exit
+- Principal Preservation Exit
+- Tax-Optimized Exit
+- Macro-Conditional Exit
+- Risk-Triggered Exit
+- Hybrid Exit
+- Custom Exit
+
+Each scenario shall calculate, where applicable:
+
+- Gross proceeds
+- Estimated taxes
+- Estimated transaction costs
+- Net proceeds
+- Remaining exposure
+- Remaining principal at risk
+- Remaining profit at risk
+- Expected return
+- Downside risk
+- Maximum modeled drawdown
+- Probability distributions
+- Time to completion
+- Liquidity generated
+- Tax impact
+- Risk reduction
+
+---
+
+### Immediate Exit Scenario
+
+The Immediate Exit Scenario shall model liquidation of the selected portfolio positions at the current modeled price.
+
+It shall calculate:
+
+- Gross liquidation value
+- Estimated tax liability
+- Estimated transaction costs
+- Net proceeds
+- Remaining exposure
+- Capital preserved
+- Profit preserved
+
+The scenario shall establish a baseline for comparison against alternative exit strategies.
+
+---
+
+### Gradual Exit Scenario
+
+The Gradual Exit Scenario shall model staged reductions in market exposure.
+
+Users shall be able to define:
+
+- Exit percentage
+- Exit amount
+- Frequency
+- Duration
+- Target completion date
+
+The engine shall support:
+
+- Daily schedules
+- Weekly schedules
+- Monthly schedules
+- Custom schedules
+
+The system shall compare gradual exits against immediate liquidation and other strategies.
+
+---
+
+### Profit-Only Exit Scenario
+
+The Profit-Only Exit Scenario shall model withdrawing accumulated gains while maintaining some or all of the original principal in the market.
+
+The system shall calculate:
+
+- Realized profit
+- Remaining principal
+- Remaining market exposure
+- Tax consequences
+- Downside exposure
+- Potential future gains
+- Principal-at-risk
+
+---
+
+### Principal Preservation Scenario
+
+The Principal Preservation Scenario shall model exiting enough of a position or portfolio to recover the user's original capital.
+
+The system shall calculate:
+
+- Principal recovered
+- Remaining exposure
+- Remaining potential upside
+- Remaining downside
+- Estimated tax impact
+- Probability of losing recovered capital after the modeled exit
+
+---
+
+### Tax-Optimized Exit Scenario
+
+The Tax-Optimized Exit Scenario shall search for exit schedules that may reduce estimated tax consequences while satisfying user-defined constraints.
+
+The module shall consider:
+
+- Holding periods
+- Short-term capital gains
+- Long-term capital gains
+- Tax brackets
+- Estimated taxable income
+- Tax-year boundaries
+- Tax-loss harvesting
+- Loss offsets
+- Wash-sale considerations
+- State taxation
+- Multi-year realization schedules
+
+The system shall distinguish tax optimization from tax avoidance and shall only model legally recognized strategies.
+
+Tax calculations shall be treated as estimates and shall identify assumptions and jurisdictional limitations.
+
+---
+
+### Macro-Conditional Exit Scenario
+
+The Macro-Conditional Exit Scenario shall model exit strategies triggered by changes in macroeconomic conditions.
+
+Triggers may include:
+
+- Yield curve changes
+- Inflation thresholds
+- Employment deterioration
+- Credit-spread expansion
+- Volatility increases
+- Liquidity deterioration
+- Economic growth deterioration
+- Composite Macro Risk Score changes
+
+Users shall be able to define thresholds and confirmation requirements.
+
+The system shall support multiple simultaneous conditions.
+
+---
+
+### Risk-Triggered Exit Scenario
+
+The Risk-Triggered Exit Scenario shall model portfolio reductions when predefined risk thresholds are reached.
+
+Triggers may include:
+
+- Portfolio drawdown
+- Position drawdown
+- Volatility
+- Value at Risk
+- Conditional Value at Risk
+- Tail-risk measures
+- Concentration risk
+- Liquidity risk
+- Correlation breakdown
+- Earnings deterioration
+
+The system shall allow users to configure thresholds.
+
+---
+
+### Hybrid Exit Scenario
+
+The Hybrid Exit Scenario shall combine:
+
+- Personal financial requirements
+- Tax constraints
+- Macro signals
+- Portfolio risk
+- Market valuation
+- User-defined timing requirements
+
+The engine shall rank potential exit paths based on the user's stated priorities.
+
+---
+
+### Monte Carlo Simulation Module
+
+The Monte Carlo Simulation Module shall generate multiple modeled future portfolio paths.
+
+The module shall support:
+
+- Return distributions
+- Volatility assumptions
+- Drift assumptions
+- Correlation structures
+- Randomized market paths
+- Portfolio-level simulations
+- Position-level simulations
+- Thousands of simulation paths
+- User-defined simulation periods
+
+Outputs shall include:
+
+- Median outcome
+- Lower-percentile outcomes
+- Upper-percentile outcomes
+- Probability of loss
+- Probability of preserving principal
+- Probability of preserving gains
+- Probability of reaching a cash target
+- Probability of exceeding a loss threshold
+- Distribution of portfolio values
+- Distribution of net proceeds
+
+Monte Carlo results shall never be presented as predictions or guarantees.
+
+---
+
+### Historical Stress Testing Module
+
+The Historical Stress Testing Module shall evaluate portfolio resilience under historical market environments.
+
+The module shall support historical stress periods including:
+
+- Dot-com market decline
+- Global Financial Crisis
+- COVID-19 market crash
+- 2022 monetary tightening cycle
+
+The system shall also support configurable:
+
+- Equity drawdowns
+- Interest-rate shocks
+- Inflation shocks
+- Credit shocks
+- Liquidity shocks
+- Volatility shocks
+
+The system shall calculate:
+
+- Portfolio decline
+- Peak drawdown
+- Time to recovery
+- Capital remaining
+- Profit remaining
+- Exit effectiveness
+
+Historical scenarios shall clearly indicate that past market behavior does not establish future outcomes.
+
+---
+
+### Exit Optimization Module
+
+The Exit Optimization Module shall evaluate competing strategies using user-defined objectives.
+
+Optimization criteria may include:
+
+- Capital preservation
+- Profit preservation
+- Tax minimization
+- Risk reduction
+- Liquidity
+- Exit duration
+- Financial deadlines
+
+Users shall be able to assign relative priorities.
+
+The system shall identify tradeoffs instead of presenting a single outcome as universally optimal.
+
+---
+
+### Tax Analysis Module
+
+The Tax Analysis Module shall estimate the tax implications of proposed exits.
+
+It shall support:
+
+- Cost-basis analysis
+- Acquisition-date analysis
+- Holding-period analysis
+- Long-term gain analysis
+- Short-term gain analysis
+- Tax-bracket modeling
+- Tax-year modeling
+- Tax-loss harvesting
+- Wash-sale awareness
+- State-tax estimates
+- Multi-year tax projections
+- Tax-sensitive lot selection
+
+The module shall maintain a clear separation between financial modeling and professional tax advice.
+
+---
+
+### AI Analysis Module
+
+The AI Analysis Module shall provide natural-language interpretation of analytical results.
+
+The AI shall:
+
+- Explain scenario results
+- Explain risk scores
+- Explain macroeconomic signals
+- Compare exit strategies
+- Identify tradeoffs
+- Identify missing information
+- Identify conflicting assumptions
+- Summarize tax considerations
+- Explain uncertainty
+- Generate user-readable reports
+- Answer questions about model outputs
+
+The AI shall not independently override deterministic calculations.
+
+The AI shall reference the underlying model outputs when explaining conclusions.
+
+The AI shall avoid:
+
+- Guaranteed returns
+- Claims of certainty
+- Claims that a market top has been identified
+- Unsupported predictions
+- Hidden assumptions
+- Fabricated financial data
+- Fabricated sources
+
+---
+
+### Decision Support Module
+
+The Decision Support Module shall translate analytical results into structured choices.
+
+Outputs may include:
+
+- Lower-risk pathway
+- Higher-liquidity pathway
+- Tax-efficient pathway
+- Faster-exit pathway
+- Gradual-exit pathway
+- Capital-preservation pathway
+- Profit-preservation pathway
+
+The system shall explain why a scenario ranks higher according to the user's selected objectives.
+
+The final decision shall remain with the user.
+
+---
+
+### Compliance and Disclosure Module
+
+The Compliance and Disclosure Module shall enforce RIA-style analytical practices.
+
+The module shall provide:
+
+- Financial-analysis disclaimers
+- Risk disclosures
+- Model limitations
+- Data limitations
+- Tax disclaimers
+- Historical-data disclosures
+- Scenario uncertainty disclosures
+- AI limitations
+- Conflict-of-interest disclosures where applicable
+- Data-source disclosures
+- Methodology disclosures
+
+The system shall clearly distinguish:
+
+- Financial education
+- Financial analysis
+- Scenario modeling
+- Decision support
+- Professional investment advice
+- Trade execution
+
+ExitCompute shall not represent itself as a registered investment adviser unless operated through an appropriately registered entity and configured for that purpose.
+
+---
+
+### Explainability Module
+
+The Explainability Module shall provide visibility into how outputs are produced.
+
+It shall expose:
+
+- Inputs
+- Assumptions
+- Data sources
+- Indicator values
+- Model versions
+- Calculation methods
+- Scenario parameters
+- Risk parameters
+- Tax assumptions
+- Simulation settings
+- Output scores
+
+Users shall be able to understand the major factors contributing to a result.
+
+---
+
+### Audit Module
+
+The Audit Module shall record important analytical events.
+
+Audit records may include:
+
+- User input changes
+- Portfolio changes
+- Scenario creation
+- Scenario modifications
+- Model versions
+- Data versions
+- Risk calculations
+- Tax calculations
+- AI-generated reports
+- Disclosure versions
+- User decisions
+- System alerts
+
+Audit records shall support reproducibility and troubleshooting.
+
+---
+
+### Alert Module
+
+The Alert Module shall monitor user-defined and system-defined conditions.
+
+Alerts may include:
+
+- Macro Risk Score changes
+- Portfolio Risk Score changes
+- Valuation changes
+- Volatility increases
+- Drawdown thresholds
+- Tax deadlines
+- Holding-period milestones
+- Wash-sale warnings
+- Concentration warnings
+- Liquidity warnings
+- Scenario deterioration
+- Exit-condition triggers
+
+Users shall control alert preferences.
+
+---
+
+### Dashboard Module
+
+The Dashboard Module shall provide a centralized view of the user's analysis.
+
+It shall display:
+
+- Portfolio value
+- Market exposure
+- Unrealized gains and losses
+- Capital at risk
+- Profit at risk
+- Macro Risk Score
+- Portfolio Risk Score
+- Tax Exposure
+- Exit Readiness
+- Scenario comparisons
+- Monte Carlo results
+- Stress-test results
+- Tail-risk results
+- Exit timeline
+- Relevant alerts
+
+The dashboard shall prioritize understandable decision-support information.
+
+---
+
+### Scenario Comparison Module
+
+The Scenario Comparison Module shall allow users to compare multiple exit strategies simultaneously.
+
+Comparison fields shall include:
+
+- Gross proceeds
+- Net proceeds
+- Estimated taxes
+- Risk
+- Remaining exposure
+- Potential downside
+- Potential upside
+- Liquidity
+- Exit duration
+- Probability distributions
+- Capital preservation
+- Profit preservation
+
+The system shall make assumptions consistent across scenarios unless explicitly changed by the user.
+
+---
+
+### Exit Timeline Module
+
+The Exit Timeline Module shall provide a visual representation of a proposed exit.
+
+It shall display:
+
+- Planned sales
+- Exit percentages
+- Dollar amounts
+- Tax-year boundaries
+- Holding-period milestones
+- Macro checkpoints
+- Risk checkpoints
+- User deadlines
+- Actual versus planned progress
+
+The timeline shall dynamically update when material assumptions change.
+
+---
+
+### Reporting Module
+
+The Reporting Module shall generate structured reports.
+
+Supported reports shall include:
+
+- Personalized Exit Report
+- Portfolio Risk Report
+- Macro Environment Report
+- Tax Impact Report
+- Scenario Comparison Report
+- Monte Carlo Report
+- Historical Stress Report
+- Tail-Risk Report
+- Exit Timeline Report
+- Executive Summary
+- Detailed Analytical Report
+
+Reports shall include assumptions, methodology, limitations, and applicable disclosures.
+
+---
+
+### Data Provenance Module
+
+The Data Provenance Module shall track the origin and transformation of analytical data.
+
+Each significant data element shall support:
+
+- Source
+- Timestamp
+- Retrieval date
+- Data period
+- Transformation history
+- Validation status
+- Data version
+
+The system shall identify stale, incomplete, or questionable data.
+
+---
+
+### Security and Privacy Module
+
+The Security and Privacy Module shall protect sensitive financial information.
+
+It shall support:
+
+- Secure authentication
+- Authorization
+- Encrypted communications
+- Secure credential storage
+- Session security
+- Access controls
+- Audit logging
+- Data minimization
+- Configurable retention
+- Secure API access
+- Protection of portfolio information
+
+Brokerage credentials shall not be stored unless required by an optional integration and protected using appropriate security controls.
+
+---
+
+### API Module
+
+The API Module shall expose controlled programmatic access to ExitCompute.
+
+API capabilities may include:
+
+- User management
+- Portfolio management
+- Position management
+- Market data
+- Macro data
+- Risk analysis
+- Tax analysis
+- Scenario creation
+- Scenario execution
+- Simulation execution
+- Report generation
+- Alerts
+- Configuration
+- Audit information
+
+The API shall use documented schemas and validation.
+
+The API shall provide OpenAPI documentation.
+
+---
+
+### Web Interface Module
+
+The Web Interface Module shall provide the primary user experience.
+
+The interface shall support:
+
+- Account management
+- Portfolio entry
+- Financial profile setup
+- Risk assessment
+- Scenario creation
+- Scenario comparison
+- Macro dashboard
+- Risk dashboard
+- Tax dashboard
+- Exit timeline
+- Reports
+- Alerts
+- Model explanations
+- Disclosure review
+
+The interface shall be accessible to users without advanced financial knowledge while providing an advanced analysis mode for experienced investors.
+
+---
+
+## Optional Plugin Modules
+
+ExitCompute shall support optional modules that can be installed without changing the core analytical architecture.
+
+### Brokerage Integration Plugin
+
+Potential capabilities:
+
+- Portfolio import
+- Position synchronization
+- Cost-basis synchronization
+- Transaction history
+- Account balance synchronization
+
+The plugin shall not execute trades by default.
+
+Any future trade-execution capability shall require explicit user authorization and additional compliance controls.
+
+---
+
+### Additional Market Data Plugin
+
+Supports alternative market-data providers.
+
+The plugin architecture shall allow providers to be added or replaced without changing the core analytical modules.
+
+---
+
+### News Analysis Plugin
+
+Potential capabilities:
+
+- Financial news ingestion
+- Event detection
+- News classification
+- Sentiment analysis
+- Market-moving event identification
+- Source comparison
+
+News sentiment shall be treated as supplementary information rather than definitive evidence.
+
+---
+
+### Advanced Sentiment Plugin
+
+Potential capabilities:
+
+- Social sentiment
+- News sentiment
+- Investor sentiment
+- Sentiment regime detection
+- Sentiment divergence
+- Sentiment volatility
+
+The system shall clearly identify sentiment-derived signals as probabilistic.
+
+---
+
+### Retirement Planning Plugin
+
+Potential capabilities:
+
+- Retirement income modeling
+- Withdrawal schedules
+- Required liquidity
+- Social Security inputs
+- Retirement-account considerations
+- Sequence-of-returns analysis
+- Retirement-specific exit strategies
+
+---
+
+### Cryptocurrency Exit Plugin
+
+Potential capabilities:
+
+- Cryptocurrency portfolio analysis
+- Crypto volatility modeling
+- Crypto drawdown scenarios
+- Tax-aware crypto liquidation
+- Crypto-specific risk indicators
+
+---
+
+### Fixed Income Plugin
+
+Potential capabilities:
+
+- Bond portfolio analysis
+- Treasury analysis
+- Duration risk
+- Interest-rate sensitivity
+- Credit risk
+- Fixed-income replacement scenarios
+
+---
+
+### International Markets Plugin
+
+Potential capabilities:
+
+- International equities
+- Currency exposure
+- Country risk
+- International macroeconomic indicators
+- Foreign tax considerations
+
+---
+
+### Alternative Assets Plugin
+
+Potential capabilities:
+
+- Real estate
+- Commodities
+- Private investments
+- Alternative asset liquidity
+- Asset rotation scenarios
+
+---
+
+### Professional Advisor Plugin
+
+The Professional Advisor Plugin may provide controlled functionality for qualified financial professionals.
+
+Potential capabilities:
+
+- Advisor review
+- Client scenario sharing
+- Report review
+- Commenting
+- Approval workflows
+- Compliance review
+- Client collaboration
+
+Professional functionality shall require appropriate legal and regulatory review before deployment.
+
+---
+
+### Custom Risk Model Plugin
+
+The Custom Risk Model Plugin shall allow qualified developers or organizations to add alternative risk methodologies.
+
+Custom models shall expose:
+
+- Methodology
+- Inputs
+- Assumptions
+- Version
+- Limitations
+- Output definitions
+
+---
+
+### Custom Tax Jurisdiction Plugin
+
+The Custom Tax Jurisdiction Plugin shall support additional tax jurisdictions.
+
+Each jurisdiction implementation shall document:
+
+- Tax rules
+- Effective dates
+- Applicable thresholds
+- Calculation methods
+- Assumptions
+- Limitations
+
+---
+
+## AI Model Requirements
+
+The AI layer shall be replaceable.
+
+ExitCompute shall not require a proprietary AI model.
+
+Supported implementations may include:
+
+- Open-source language models
+- Locally hosted models
+- Self-hosted inference
+- API-based models
+- Specialized financial language models
+
+The AI layer shall not be the authoritative source for numerical calculations.
+
+Numerical outputs shall originate from validated analytical engines.
+
+---
+
+## Model Governance
+
+Every analytical model shall have:
+
+- Model name
+- Model version
+- Purpose
+- Inputs
+- Outputs
+- Methodology
+- Assumptions
+- Limitations
+- Validation procedures
+- Test coverage
+- Change history
+
+Material model changes shall increment the model version.
+
+Historical scenario results shall retain the model version used to generate them.
+
+---
+
+## Data Governance
+
+ExitCompute shall maintain data-quality controls.
+
+The system shall detect:
+
+- Missing data
+- Duplicate data
+- Stale data
+- Outliers
+- Invalid values
+- Inconsistent timestamps
+- Source conflicts
+
+Data-quality problems shall be surfaced to users when they could materially affect an analysis.
+
+---
+
+## Testing Requirements
+
+The project shall include automated tests for:
+
+- Portfolio calculations
+- Cost-basis calculations
+- Tax calculations
+- Risk calculations
+- Scenario calculations
+- Monte Carlo simulations
+- Historical stress tests
+- Macro scoring
+- API validation
+- Security controls
+- Disclosure generation
+
+Financial calculations shall include deterministic test cases.
+
+Scenario engines shall include regression tests to detect unintended changes.
+
+---
+
+## Reproducibility Requirements
+
+A scenario should be reproducible using:
+
+- Input data
+- Data version
+- Model version
+- Scenario parameters
+- Risk parameters
+- Tax parameters
+- Simulation seed where applicable
+- Calculation configuration
+
+Users should be able to identify why two analyses produced different results.
+
+---
+
+## User-Controlled Assumptions
+
+Users shall be able to review and modify applicable assumptions.
+
+Examples include:
+
+- Expected return
+- Volatility
+- Inflation
+- Tax rate
+- Exit duration
+- Exit percentage
+- Risk threshold
+- Macro threshold
+- Liquidity requirement
+- Maximum acceptable loss
+
+The system shall clearly distinguish user-provided assumptions from system-derived values.
+
+---
+
+## No Automated Trade Execution by Core
+
+The core ExitCompute system shall provide analysis and decision support rather than automatically executing securities transactions.
+
+Optional brokerage plugins may provide account information.
+
+Any future automated execution capability shall be isolated from the core analytical system and require separate authorization, security, compliance, and risk controls.
+
+---
+
+## Financial Safety Principles
+
+ExitCompute shall never guarantee:
+
+- A market peak
+- A market bottom
+- A specific return
+- A specific sale price
+- A specific tax outcome
+- A specific future market condition
+
+The system shall communicate uncertainty whenever an output depends on assumptions, forecasts, simulations, or incomplete information.
+
+---
+
+## Open-Source Requirements
+
+ExitCompute shall remain compatible with the principles of the AGPL-3.0+ license.
+
+The project shall preserve:
+
+- Source availability
+- License notices
+- Attribution requirements
+- Contributor acknowledgments
+- Network-source requirements
+- Modification notices
+- Applicable legal notices
+
+All derivative deployments shall preserve the required attribution to:
+
+**Roxanne Ardary**
+
+**[roxanneardary.com](https://www.roxanneardary.com/)**
+
+---
+
+## Documentation Requirements
+
+Documentation shall cover:
+
+- System architecture
+- Core modules
+- Plugin modules
+- APIs
+- Data sources
+- Models
+- Calculations
+- Scenario methodologies
+- Tax assumptions
+- Risk methodologies
+- AI behavior
+- Security
+- Privacy
+- Compliance
+- Deployment
+- Contribution procedures
+
+Documentation shall be maintained as the system evolves.
+
+---
+
+## Future Expansion
+
+ExitCompute shall be designed to support future capabilities without requiring fundamental changes to the core architecture.
+
+Potential future capabilities include:
+
+- Additional asset classes
+- Additional jurisdictions
+- Advanced portfolio optimization
+- More historical stress periods
+- Real-time macro monitoring
+- Advanced regime detection
+- Institutional risk models
+- Advisor collaboration
+- Personalized financial planning
+- Additional AI models
+- Federated data sources
+- Additional visualization systems
+
+---
+
+## Project Outcome
+
+ExitCompute is intended to provide investors with a structured way to evaluate the decision to remain invested, reduce exposure, or exit.
+
+The platform focuses on the practical problem of protecting accumulated capital and gains rather than attempting to predict markets with certainty.
+
+The central analytical question is:
+
+**Given an investor's financial needs, portfolio, tax circumstances, risk tolerance, macroeconomic environment, and available exit strategies, which modeled path provides the most appropriate balance between capital preservation, profit preservation, liquidity, taxation, and remaining market exposure?**
+
+---
 
 ## Specification Branding License (SBL):  
 - Fully AGPL-3.0+ compliant system
@@ -146,18 +1369,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-## ⚠️ Financial Disclaimer
-
-ExitCompute does **not** act as a financial advisor.  
-It provides analytical tools only and does not guarantee any financial outcome.  
-Users are responsible for their own investing decisions.
-
----
-
-## 🤝 Contributions
-
-Contributions are welcome!  
-All contributions are accepted under the AGPL-3.0+ with Section 7 attribution requirement.
