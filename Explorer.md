@@ -1,6 +1,8 @@
 # Explorer Capital
-
 **Capital That Opens the World.**
+- HTML Mirror: [https://roxanneardary.com/explorer-capital-specification/](https://roxanneardary.com/explorer-capital-specification/)  
+
+---
 
 Explorer Capital is a deterministic financing specification designed to provide purpose-specific capital for participants in an approved **World Expedition Program** curriculum.
 
