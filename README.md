@@ -31,7 +31,11 @@ Across the broader ecosystem, emphasis is placed on transparency, cryptographic 
 
 - [**CaptialScope Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/5f33572469dc9469dc7aadeaf0abd1bf5619142b/CapitalScope.md)  
 [https://roxanneardary.com/capitalscope/](https://roxanneardary.com/capitalscope/)  
-CapitalScope is an open source specification for AI-assisted venture financing that evaluates Enterprise Creators through business analysis, market demand, predictive modeling, emerging technology assessment, risk scoring, and cost validation. It provides Venture Capitalists with a deterministic financing framework featuring a fixed 4% interest rate, predictable repayment, principal-linked interest elimination, penalty-free prepayment, and optional business development plugins.  
+CapitalScope is an open source specification for AI-assisted venture financing that evaluates Enterprise Creators through business analysis, market demand, predictive modeling, emerging technology assessment, risk scoring, and cost validation. It provides Venture Capitalists with a deterministic financing framework featuring a fixed 4% interest rate, predictable repayment, principal-linked interest elimination, penalty-free prepayment, and optional business development plugins.
+
+- [**CashOps Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/0c719dffa969e452cd896c1feb8bc62f99242ee0/CashOps.md)  
+[https://roxanneardary.com/cashops/](https://roxanneardary.com/cashops/)  
+CashOps is a modular AI personal finance optimization specification designed to maximize the productive use of available cash while protecting liquidity, payment obligations, and user-defined financial policies. It integrates yield optimization, cash flow forecasting, PrePayGuard, Nexa, and Soluna Finance OS to coordinate safer, timely, and explainable financial decisions.  
 
 - [**CryptoCradle Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/7862faa688a589f5bc9e9027cc21d76c3671df1d/CryptoCradle.md)     
   [https://roxanneardary.com/cryptocradle/](https://roxanneardary.com/cryptocradle/)  
