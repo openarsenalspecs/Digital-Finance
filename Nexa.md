@@ -1,4 +1,7 @@
 # Nexa: Continuity Engine
+- HTML Mirror:  [https://roxanneardary.com/nexa-specification/](https://roxanneardary.com/nexa-specification/)
+
+---
 
 **Nexa: Continuity Engine** is a generational wealth operating system designed to model, simulate, and govern multi-generational financial structures through programmable trust logic, lifecycle-aware rules, and multi-trust network architecture.
 
