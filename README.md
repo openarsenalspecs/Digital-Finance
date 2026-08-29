@@ -89,7 +89,7 @@ LivingTrust Standard is an AGPL-3.0+ open source specification for modular livin
 [https://roxanneardary.com/loansphere/](https://roxanneardary.com/loansphere/)  
 LoanSphere is an open source specification for connected lending systems, providing a modular framework for defining, managing, and integrating loan programs, qualification criteria, pricing models, repayment structures, and lending workflows. It enables financial organizations to build interoperable lending solutions while maintaining control over their own lending policies, requirements, and business rules.  
 
-- [**Nexa: Continuity Engine Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/34f94f6fd01481cb2ce19732245fb73499f05a0f/Nexa.md)    
+- [**Nexa: Continuity Engine Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/53a4ba7bf8c863c895cda3b7127cf26066ac2db9/Nexa.md)  
   [https://roxanneardary.com/nexa/](https://roxanneardary.com/nexa/)  
   Nexa is a generational wealth operating system. It structures, simulates, and governs long-term financial systems through programmable trust logic and multi-generational continuity modeling.  
 
